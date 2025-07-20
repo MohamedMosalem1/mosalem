@@ -1,0 +1,6 @@
+install database about way :
+click on import next file choose database file and click on import database next click import .
+
+-database change username and password :
+1- username the database = "Mosalem" to change "root".
+2- password the database = "Mosalem 2003" to change "".
